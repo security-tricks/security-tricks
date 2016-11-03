@@ -32,7 +32,29 @@
       <div class="footer-col footer-col-3">
         <h2 style="text-align: center">{{ "Contact" }}</h2>
         <p style="text-align: center">{% if site.email %}
-          <A HREF="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%73%65%63%75%72%69%74%79%2D%74%72%69%63%6B%73%40%70%72%6F%74%6F%6E%6D%61%69%6C%2E%63%6F%6D">&#109;&#97;&#105;&#108;&#116;&#111;&#58;%73%65%63%75%72%69%74%79%2D%74%72%69%63%6B%73%40%70%72%6F%74%6F%6E%6D%61%69%6C%2E%63%6F%6D</A>
+          <script type="text/javascript" language="javascript">
+<!--
+// Email obfuscator script 2.1 by Tim Williams, University of Arizona
+// Random encryption key feature by Andrew Moulden, Site Engineering Ltd
+// This code is freeware provided these four comment lines remain intact
+// A wizard to generate this code is at http://www.jottings.com/obfuscator/
+{ coded = "3lEam0u2-um0Ef3@VmHuHr5k0M.EH5"
+  key = "GRKMpePJsqLS4HjYg9cmBn2DQxkvu0dCXAVlw1368hFUWoIZE5Or7NyzfTabti"
+  shift=coded.length
+  link=""
+  for (i=0; i<coded.length; i++) {
+    if (key.indexOf(coded.charAt(i))==-1) {
+      ltr = coded.charAt(i)
+      link += (ltr)
+    }
+    else {
+      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+      link += (key.charAt(ltr))
+    }
+  }
+document.write("<a href='mailto:"+link+"'>"+Email Us+"</a>")
+}
+
         {% endif %}
         </p>
       </div>
