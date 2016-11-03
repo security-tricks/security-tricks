@@ -2,7 +2,6 @@
 title: About
 layout: page
 permalink: /about/
-comments: true
 ---
 
 <div style="text-align: center"><h3>News, Articles, and Tutorials: That's it.</h3></div>
