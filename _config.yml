@@ -2,8 +2,8 @@
 title: Security-Tricks.com
 email: security-tricks@protonmail.com
 description: ''
-baseurl: security-tricks.com
-url: http://www.security-tricks.com
+baseurl:
+url: 
 twitter_username: security-tricks
 github_username: security-tricks
 markdown: kramdown
