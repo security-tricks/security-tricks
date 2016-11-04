@@ -266,6 +266,14 @@ a.page-link {
   }
 }
 
+@include media-query($on-palm) {
 .site-nav .page-link {
     color: #111;
   }
+}
+
+@include media-query($on-laptop) {
+.site-nav .page-link {
+    color: #111;
+  }
+}
