@@ -11,6 +11,7 @@ theme: minima
 gems:
 - jekyll-feed
 - jekyll-admin
+- jekyll-bootstrap-sass
 exclude:
 - Gemfile
 - Gemfile.lock
