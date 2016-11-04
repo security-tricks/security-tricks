@@ -6,6 +6,8 @@ layout: post
 
 So, you are setting up a new email account for yourself, your mom, brother, sister, friend, etc… What is the best advice you can give them? *DON’T GIVE IT OUT*.
 
+![](/uploads/versions/email-spam-600---x----600-300x---.jpg)
+
 Everybody knows what its like and everybody hates it: spam. How can you avoid it?
 
 1. Never, ever, give your email out to someone you do not absolutely trust. If the company is not reputable, then just don’t cough it up. It’s that simple.
