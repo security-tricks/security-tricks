@@ -21,5 +21,3 @@ Instead, use a decimal converter [(here)](https://www.branah.com/ascii-converter
 You need to encode the html which is written for your website if you are putting your email on a website. Why is this a big deal? It’s a big deal because “bots” are computer programs that run automated tasks. There are millions of “bots” that comb the interenet for - you guessed it - *email addresses*. So, don’t put yours out there - that includes putting your email address on your Facebook profile.
 
 This is a good example of how internet security is a combination of human discipline - don’t give your email out to just anyone - and good software - encoding email addresses on websites.
-
-Any comments? Let us know!
